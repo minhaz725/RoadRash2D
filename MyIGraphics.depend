@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493291669 c:\users\user\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493346732 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493431354 c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432004 source:c:\users\ashikur\documents\myigraphics\bmpload.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1391970930 source:c:\users\ashikur\documents\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432174 c:\users\ashikur\documents\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493431718 source:c:\users\ashikur\documents\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1496920363 source:c:\users\minhaz\downloads\compressed\myigraphics\myigraphics\picturedemotransperancy.cpp
+	"iGraphics.h"
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810122 c:\users\minhaz\downloads\compressed\myigraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1391970658 source:c:\users\minhaz\downloads\compressed\myigraphics\myigraphics\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1494948557 source:c:\users\minhaz\downloads\compressed\myigraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1497035061 source:c:\users\minhaz\downloads\compressed\myigraphics\myigraphics\roadrash.cpp
+	"iGraphics.h"
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1497039753 source:d:\project road rash 2d\road rash 2d\roadrash.cpp
+	"iGraphics.h"
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810122 d:\project road rash 2d\road rash 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1497039752 source:c:\users\minhaz\downloads\road rash 2d\roadrash.cpp
+	"iGraphics.h"
+	<iostream>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1493810122 c:\users\minhaz\downloads\road rash 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
